@@ -9,7 +9,7 @@ R library required: mobsim
 
 Perl script to generate seed mock community pools and mock community pools at specific sequencing depth. 
 
-By default, seed mock communities with 10^4 species and 10^8 organisms are generated. Mock communities are constructed at a random subsampling depth of 3x104. These parameters can be modified at correspondig lines in the script. 
+By default, seed mock communities with 10^4 species and 10^8 organisms are generated. Mock communities are constructed at a random subsampling depth of 3x10^4. These parameters can be modified at correspondig lines in the script. 
 
 <b><i>CalZrsK.pl</i></b>
 
