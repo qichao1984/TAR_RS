@@ -1,5 +1,7 @@
 # TAR_RS
 Estimate random sampling issues in microbial TAR analyses
+Tu, Q. (2020), Random sampling in metagenomic sequencing leads to overestimated spatial scaling of microbial diversity. Environ Microbiol. doi:10.1111/1462-2920.14973
+
 
 Perl modules required: List::Util qw(sum shuffle), Statistics::R, Statistics::LineFit;
 
